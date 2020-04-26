@@ -14,5 +14,6 @@ public class playercontroller : MonoBehaviour
     void Update()
     {
         Debug.Log("controll");
+        Debug.Log("add");
     }
 }
